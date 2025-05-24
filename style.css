@@ -94,7 +94,7 @@ svg {
 .button {
   font-size: 15px;
   color: var(--white);
-  text-transform: uppercase;
+  text-transform: capitalize;
   font-weight: 600;
   border-bottom: 2px solid var(--primary-color);
   padding-block: 10px;
@@ -170,7 +170,6 @@ svg {
 
 .home p {
   text-align: center;
-  text-transform: capitalize;
   font-size: 15px;
 }
 
@@ -267,7 +266,6 @@ svg {
 .contact-form p {
   text-align: center;
   font-size: 15px;
-  text-transform: capitalize;
 }
 
 form {
@@ -349,6 +347,7 @@ footer > span {
   .home .img {
     grid-column: 4 / span 2;
     grid-row: 1 / span 5;
+    justify-self: right;
   }
 
   .home section {
