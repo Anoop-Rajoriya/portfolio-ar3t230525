@@ -1,4 +1,4 @@
-# Simple Portfolio using Html and Css ([Live](https://anoop-rajoriya.github.io/portfolio-ar3t230525/))
+# Simple Portfolio using Html and Css ([Live](https://anoop-rajoriya.github.io/simple-portfolio/))
 
 ## Description
 
